@@ -1,2 +1,2 @@
-Note:
+<h3>Note:</h1><br>
 If the [Brainstorming & Idea Prioritizaation.pdf](https://github.com/IBM-EPBL/IBM-Project-20955-1659767896/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Brainstorming%20%26%20Idea%20Prioritizaation.pdf) not working please refer [Brainstorm and Ideation.pdf](https://github.com/IBM-EPBL/IBM-Project-20955-1659767896/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Brainstorm%20and%20Ideation.pdf)
